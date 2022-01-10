@@ -1,5 +1,7 @@
- 🌱 I’m currently learning ...
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimgy0)](https://github.com/anuraghazra/github-readme-stats)
+
+https://www.notion.so/SpringBoot-84228dc34113423a89e24d73c83f5a84
 
 
 <!--
