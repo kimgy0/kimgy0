@@ -2,7 +2,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimgy0)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[Notion](https://www.notion.so/SpringBoot-84228dc34113423a89e24d73c83f5a84).
+[Notion](https://complete-bill-893.notion.site/SpringBoot-84228dc34113423a89e24d73c83f5a84).
 
 <!--
 **kimgy0/kimgy0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
