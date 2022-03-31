@@ -1,9 +1,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00AFFF&height=200&text=I'm%GyuYeong!&fontSize=120&fontColor=f4ffff)
 
-
-
+<div align="center">
   
+<img src="./KakaoTalk_20220221_151709023 - 복사본.jpg" width="400" height="370">
+  
+</div>
+
 ## 🏫 Experience 🏫
   
 #### 2017
