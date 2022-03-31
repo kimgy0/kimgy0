@@ -9,7 +9,7 @@
 
 <div align="center">
   
-## 🏫 Experience 🏫
+### 🏫 Experience 🏫
 
 </div>
 
@@ -26,7 +26,13 @@ Alpaca Corp. (BackEnd Developer Internship) 2021.06 - 2021.08
   
   
   
-## 🛠 STACKS 🛠 
+### 🛠 STACKS 🛠 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring%20Boot&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=for-the-badge&logo=Spring%20Security&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white) ![MYSQL](https://img.shields.io/badge/MYSQL-4479A1.svg?style=for-the-badge&logo=MYSQL&logoColor=white) ![ORACLE](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![LINUX](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![GITHUB](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) ![GIT](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GRADLE](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) ![AMAZONEAWS](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) 
+  
+  
+<a href="https://www.instagram.com/rlagyu0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rlagyu0/"></a>&nbsp
 
 <div align="center">
+  
+  
+  
