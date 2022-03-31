@@ -3,14 +3,15 @@
 
 
 <div align="center">
+  
 ## 🏫 Experience 🏫
   
 #### 2017
 Korea Transportation National University (Software Engineering)
 #### 2018
-Korea Military Academy (Information Security Guard) 2018.08 - 2020.03
-Certificated Linux Master(2 Grade)
-Certificated NetWork Manager(2 Grade)
+- Korea Military Academy (Information Security Guard) 2018.08 - 2020.03
+- Certificated Linux Master(2 Grade)
+- Certificated NetWork Manager(2 Grade)
 #### 2021
 Alpaca Corp. (BackEnd Developer Internship) 2021.06 - 2021.08
 
