@@ -7,6 +7,8 @@
   
 </div>
 
+<div align="center">
+  
 ## 🏫 Experience 🏫
 
 </div>
