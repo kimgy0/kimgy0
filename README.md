@@ -3,7 +3,7 @@
 
 <div align="center">
   
-<img src="./KakaoTalk_20220221_151709023 - 복사본.jpg" width="400" height="340">
+<img src="./KakaoTalk_20220221_151709023 - 복사본.jpg" width="400" height="370">
 
 ## 🛠 STACKS 🛠 
   
