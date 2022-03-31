@@ -25,18 +25,21 @@
 <br>
   
  ### ✋ ME ✋
-<a href="https://www.instagram.com/rlagyu0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rlagyu0/"></a> <a href="https://www.facebook.com/profile.php?id=100008221232498"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https:https://www.facebook.com/profile.php?id=100008221232498"></a>
-
-<div align="center">
+<a href="https://www.instagram.com/rlagyu0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rlagyu0/"></a> <a href="https://www.facebook.com/profile.php?id=100008221232498"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https:https://www.facebook.com/profile.php?id=100008221232498"></a> 
+   
+<br>
+<br>
+<br>
+<br>
+<br>
  
-<br>
-<br>
-<br>
-
-![My Notion](https://www.notion.so/f9c2ee7a04ea44f29f1166395e6934d4)](https://www.notion.so/f9c2ee7a04ea44f29f1166395e6934d4)
+ ### 📚 STUDY ROOM 📚
   
+<a href="https://www.facebook.com/profile.php?id=100008221232498"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/f9c2ee7a04ea44f29f1166395e6934d4"></a>
+
 <br>
 <br>
-<br>  
+<br>
+<br>
   
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00AFFF&height=200&section=footer) 
